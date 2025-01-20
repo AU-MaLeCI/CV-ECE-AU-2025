@@ -1,4 +1,4 @@
-# Computer Vision - ECE - AU 2024
+# Computer Vision - ECE - AU 2025
 
 This repository contains the Demos for Computer Vision course at Aarhus University.
 
